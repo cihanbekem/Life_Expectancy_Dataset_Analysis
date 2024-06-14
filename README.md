@@ -1,2 +1,2 @@
 # Life_Expectancy_Dataset_Analysis
-Life Expectancy Dataset Analysis For 193 Countries Between 2000 - 2015
+193 Ülkenin 2000 - 2015 Yılları Arasında Ömür Beklentisi Veri Seti Analizi.
